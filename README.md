@@ -54,6 +54,4 @@ classDiagram
   User "1" *-- "N" News
 ```
 
-## gigiocode
-
-## sdw-2023-gigio.up.railway.app/swagger-ui.html
+## [gigiocode](https://sdw-2023-gigio.up.railway.app/swagger-ui/index.html)
